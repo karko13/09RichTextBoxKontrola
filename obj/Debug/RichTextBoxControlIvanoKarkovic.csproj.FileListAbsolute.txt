@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\RichTextBoxControlIvanoKarkovic\bin\Debug\RichTextBoxControlIvanoKarkovic.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\RichTextBoxControlIvanoKarkovic\bin\Debug\RichTextBoxControlIvanoKarkovic.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\RichTextBoxControlIvanoKarkovic\bin\Debug\RichTextBoxControlIvanoKarkovic.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\RichTextBoxControlIvanoKarkovic\obj\Debug\RichTextBoxControlIvanoKarkovic.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\RichTextBoxControlIvanoKarkovic\obj\Debug\RichTextBoxControlIvanoKarkovic.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\RichTextBoxControlIvanoKarkovic\obj\Debug\RichTextBoxControlIvanoKarkovic.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\RichTextBoxControlIvanoKarkovic\obj\Debug\RichTextBoxControlIvanoKarkovic.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\RichTextBoxControlIvanoKarkovic\obj\Debug\RichTextBoxControlIvanoKarkovic.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\RichTextBoxControlIvanoKarkovic\obj\Debug\RichTextBoxControlIvanoKarkovic.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\RichTextBoxControlIvanoKarkovic\obj\Debug\RichTextBoxControlIvanoKarkovic.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\RichTextBoxControlIvanoKarkovic\obj\Debug\RichTextBoxControlIvanoKarkovic.pdb
